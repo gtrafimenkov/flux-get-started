@@ -1,0 +1,1 @@
+{"jobID":"1fcab251-ca7a-d407-50e9-6c14f94b29f8","spec":{"type":"policy","cause":{"Message":"","User":"Gennady Trafimenkov \u003cgennady.trafimenkov@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"automated":"true"},"remove":{}}}},"result":null}
